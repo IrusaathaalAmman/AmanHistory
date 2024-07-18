@@ -1,2 +1,2 @@
 # IrusaathaalAmman
-![alt text](IMG_Main_1.jpg "Irusaathaal")
+![alt text](IMG_Main_1.png "Irusaathaal")
